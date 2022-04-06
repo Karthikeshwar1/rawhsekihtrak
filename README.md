@@ -3,7 +3,6 @@
 ```
 Clue:
 
-This time, the tree seems to have a branch quite the opposite of eccentric
+The first two letters of an Indian song that I talked about on GitHub, are the keys, to a treasure of whose opening instructions can be found in Wikipedia
 
-Key: P
 ```
